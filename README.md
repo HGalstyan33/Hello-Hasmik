@@ -4,7 +4,7 @@
 Codepath pre-work project for Android. This app allows you to change the color of the text and background to a random color, as well as set the text to whatever the user types in.
 
 ### App Walk-though
-<img src="https://imgur.com/a/Ft4TgAy.gif" width=200><br>
+<img src="https://imgur.com/PhuHK5p" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
