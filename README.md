@@ -1,7 +1,7 @@
 ## Hello-Hasmik
 
 ### App Description
-Codepath pre-work project for Android. This app allows you to change the color of the text and background to a random color, as well as set the text to whatever the user types in.
+Codepath pre-work project for Mobile App Design (Android). This app allows you to change the color of the text and background to a random color, as well as set the text to whatever the user types in.
 
 ### App Walk-though
 <img src="https://imgur.com/PhuHK5p.gif" width=200><br>
